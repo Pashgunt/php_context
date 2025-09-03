@@ -13,7 +13,7 @@
 ### 📦 Source code build
 
 ```bash
-git clone https://github.com/yourname/php_context.git
+git clone https://github.com/Pashgunt/php_context.git
 cd php_context
 mkdir build && cd build
 cmake ..
